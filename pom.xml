@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>mall-common</module>
+        <module>mall-mbg</module>
     </modules>
 
     <properties>
@@ -28,7 +29,7 @@
         <swagger-annotations.version>1.6.0</swagger-annotations.version>
         <mybatis-generator.version>1.4.0</mybatis-generator.version>
         <mybatis.version>3.5.5</mybatis.version>
-        <mysql-connect.version>8.0.20</mysql-connect.version>
+        <mysql-connector.version>8.0.20</mysql-connector.version>
         <spring-data-commons.version>2.3.0.RELEASE</spring-data-commons.version>
         <jjwt.version>0.9.0</jjwt.version>
         <aliyun-oss.version>2.5.0</aliyun-oss.version>
